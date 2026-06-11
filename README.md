@@ -4,6 +4,12 @@
 
 ### Software Engineer • Quant Developer • Machine Learning Enthusiast
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Quant+Developer;Machine+Learning+Enthusiast;Building+Real-Time+Trading+Systems" />
+
+</p>
+
 Building high-performance trading systems, scalable software, and intelligent data-driven applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-kumar-248864254/)
